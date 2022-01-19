@@ -1,0 +1,143 @@
+/* paste your code here */
+body{
+    font-family: Verdana, Tahoma, sans-serif;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+/* hero design */
+.containter{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.hero-img{
+    float: left;
+    width: 30%;
+    padding-right: 8%;
+ }
+
+.hero-title{
+    font-size: 40px;
+    text-align: left;
+    padding: 12px;
+}
+
+.hero-subtitle{
+    padding: 4%;
+    font-size: 20px;
+}
+
+.hero-subtitle, .info-text, .contact-title, .git-title, .info-lang {
+    color: lightgray;
+}
+
+
+.hero-subtitle{
+    text-align: left;
+    margin-top: -80px;
+    margin-bottom: -25px;
+}
+
+.hero-text{
+    line-height:1.8;
+    font-size: 10px;
+    margin-right: -135px;
+    position: relative;
+}
+
+.info-col, .info-col2{
+    float: left;
+    padding: 4%;
+    line-height: 0.3;
+    font-size: 13px;
+    margin-top: -30px;
+    margin-left: -45px;
+    position: relative;
+}
+
+.icon1, .icon2, .icon3{
+    color: darkorange;
+    padding-left: -315px;
+    margin-top: -105px;
+    width: 5%;
+    position: relative;
+}
+
+.icon1:hover, .icon2:hover, .icon3:hover{
+    color: lightgray;
+}
+
+/* contact design */
+
+.contact-title{
+    float: left;
+    padding-left: 4%;
+    margin-left: -360px;
+    margin-top: 190px;
+    padding-bottom: -30px;
+    position: relative;
+    left: 150px;
+}
+
+.contact-text{
+    margin-bottom: -10px;
+}
+
+.contact-col{
+    margin-top: 150px;
+    float: left;
+    width: 40%;
+    font-size: 13px;
+    margin-right: -180px;
+    position: relative;
+    left: 15px;
+}
+
+
+.contact-subtitle{
+    font-size: 12px;
+    width: 150px;
+    height: 60px;
+    padding-left: -330px;
+}
+
+/* get in touch design */
+
+.git-section{
+    padding-left: 18%;
+    padding-right: 18%;
+}
+
+.git-title{
+    float: left;
+    margin-left: 5px;
+    padding-bottom: 20px;
+}
+
+.git-texts{
+    width: 100%;
+    padding: 25px;
+    background-color: lightgray;
+    margin-top: -10px;
+    margin-bottom: 3%;
+    
+   
+}
+
+.git-button{
+    text-decoration: none;
+    background-color: darkorange;
+    padding: 20px 60px;
+    color: white;
+}
+
+.git-forms{
+    margin-top: 3%;
+}
+
+.git-button:hover{
+    background-color: lightgray;
+}
